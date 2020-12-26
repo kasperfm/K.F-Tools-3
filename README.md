@@ -16,3 +16,14 @@ Men prøv det gerne selv!
 
 
 *Fun fact: Programmet var siden version 2 udgivet på den CD-ROM der fulgte med det Danske PC blad "Alt om data", hvor jeg løbende sendte dem nye versioner. :-) Det var dengang jeg gik i folkeskole, men har stadig et eksemplar af en af CD'erne.*
+
+
+## Screenshots from 2005 (Windows XP)
+![main](https://kasperfm.com/public_images/kft3/main.png "Screenshot 1")
+
+![system_menu](https://kasperfm.com/public_images/kft3/menu_system.png "Screenshot 2")
+
+![tools_menu](https://kasperfm.com/public_images/kft3/menu_vaerktoejer.png "Screenshot 3")
+
+
+
